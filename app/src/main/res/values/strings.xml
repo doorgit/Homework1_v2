@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduction">Welcome to the GPA/4.0 calculator! Enter your details in the appropriate fields below :)</string>
+    <string name="name_hint">Name of assessment</string>
+    <string name="received_marks_hint">Received marks</string>
+    <string name="total_marks_hint">Total marks</string>
+    <string name="weightage_hint">Percent weightage</string>
+    <string name="next_button_text">next</string>
+    <string name="save_button_text">FINISH</string>
+    <string name="title_activity_display_results">DisplayResultsActivity</string>
+
+</resources>
